@@ -1,14 +1,5 @@
-PHP 웹개발자입니다.
-
-2021.02 ~ 2021.05 웹개발 학원
-2021.06 ~ 2022.06 실무 (PHP 기반 커뮤니티 유지보수)
-2022.11 ~ 포트폴리오 준비
-
-기술 스택
-PHP, Mysql, Javascript (jQuery), 리눅스 명령어 조금
-
-사실상 기본기로 하는 상태
-
-필요한 기술
-MVC 패턴으로 Laravel, React 프레임워크 이용한 개발
-최대한 한 번 만들었던 기능은 함수로 모듈화하든지 해서 두 번 일하지 않도록 하기
+<p class="has-line-data" data-line-start="0" data-line-end="1">PHP web dev.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="4">Career<br>
+2021.06 ~ 2022.06  PHP-based Community websites maintenance</p>
+<p class="has-line-data" data-line-start="5" data-line-end="7">Technical Skills<br>
+PHP, Mysql, Javascript (jQuery), Linux</p>
