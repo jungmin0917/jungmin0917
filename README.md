@@ -10,7 +10,6 @@
 
 ### 💼 Career 💼
 2021.06 ~ 2022.06
-<br>
 PHP-based Community websites maintenance
 
 <br><br>
