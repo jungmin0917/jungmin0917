@@ -6,7 +6,7 @@
   <h3 align='center'>Hello :)<h3>
   <p align='center'>I'm PHP web dev.</p>
  
-  <br><br>
+  <br>
     
   <h3 align='center'>💼 Career 💼<h3>
   <p align='center'>
@@ -15,14 +15,14 @@
     PHP-based Community websites maintenance
   </p>
     
-  <br><br>
+  <br>
   
   <h3 align='center'>📚 Studying Now 📚<h3>
   <p align='center'>
     Laravel, Vue.js, SPA-based project progress...
   </p>
 
-  <br><br>
+  <br>
     
   <h3 align='center'>🛠️ Tech Stack 🛠️<h3>
   <p align='center'>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
   </p>
     
-  <br><br>
+  <br>
 
   <h3 align="center">🌈 Contact 🌈</h3>
   <p align='center'>
@@ -48,7 +48,7 @@
     </a>
   </p>
     
-  <br><br>
+  <br>
   
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
   <p align='center'>
@@ -58,7 +58,7 @@
     
   </p>
     
-  <br><br>
+  <br>
     
   <h3 align="center">etc</h3>
   <p align='center'>
@@ -67,7 +67,7 @@
     
   </p>
   
-  <br><br>
+  <br>
     
   <h3 align="center">🥰 Thank you for visiting 🥰</h3>
   <p align='center'>
@@ -76,5 +76,4 @@
     
   </p>
 
-  <br>
 </div>
