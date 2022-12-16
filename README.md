@@ -11,11 +11,13 @@
   </p>
     
   <br>
+  
+  <h3 align='center'>🛠️ Tech Stack 🛠️<h3>
   <p>
-    📚 Studying Now 📚<br>
     Laravel, Vue.js, SPA-based project progress...
   </p>
 
+  <br>
   <h3 align='center'>🛠️ Tech Stack 🛠️<h3>
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
