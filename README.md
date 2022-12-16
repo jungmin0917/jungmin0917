@@ -7,3 +7,4 @@ PHP, Mysql, Javascript (jQuery), Linux</p>
 Laravel, Vue.js, SPA and project progress..
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
