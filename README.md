@@ -55,6 +55,7 @@
     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
     
   </p>
   
