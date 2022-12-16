@@ -7,33 +7,33 @@
 ### 👋 Introduce 👋
     Hello :) I'm PHP web dev.
 
-<br><br>
+<br>
 
 ### 💼 Career 💼
     2021.06 ~ 2022.06
     PHP-based Community websites maintenance
 
-<br><br>
+<br>
 
 ### 📚 Studying Now 📚
     Laravel, Vue.js, SPA-based project progress...
 
-<br><br>
+<br>
 
 ### 🛠️ Tech Stack 🛠️
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat-square&logo=CSS3&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" height='25' />
-<br>
-<img src="https://img.shields.io/badge/PHP-red?style=flat-square&logo=PHP&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" height='25' />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat-square&logo=CSS3&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" height='25' />
+    <br>
+    <img src="https://img.shields.io/badge/PHP-red?style=flat-square&logo=PHP&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
 
-<br><br>
+<br>
 
 ### 🌈 Portfolio & Contact 🌈
 
@@ -44,20 +44,20 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height='25' />
 </a>
 
-<br><br>
+<br>
 
 ### 👩‍💻 My Github Stats 👩‍💻
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
 
-<br><br>
+<br>
 
 ### 🎲 Algorithm Skills 🎲
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
 
-<br><br>
+<br>
 
 ### 🥰 Thank you for visiting 🥰
 
