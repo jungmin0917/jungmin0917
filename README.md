@@ -43,7 +43,7 @@
 
   <h3 align="center">🌈 Portfolio & Contact 🌈</h3>
   <p align='center'>
-    <a href='http://srcmachine.com/'>
+    <a href='http://srcmachine.com/' target='_blank'>
       <img src="https://img.shields.io/badge/소스자판기-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" height='25' />
     </a>
     <a href='mailto:cloonds@gmail.com'>
