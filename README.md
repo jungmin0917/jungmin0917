@@ -41,10 +41,13 @@
     
   <br>
 
-  <h3 align="center">🌈 Contact 🌈</h3>
+  <h3 align="center">🌈 Contact & Portfolio 🌈</h3>
   <p align='center'>
     <a href='mailto:cloonds@gmail.com'>
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height='25' />
+    </a>
+    <a href='http://srcmachine.com/'>
+      <img src="https://img.shields.io/badge/소스자판기-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" height='25' />
     </a>
   </p>
     
@@ -60,7 +63,7 @@
     
   <br>
     
-  <h3 align="center">etc</h3>
+  <h3 align="center">🎲 ETC 🎲</h3>
   <p align='center'>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
