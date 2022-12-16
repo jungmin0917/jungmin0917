@@ -2,12 +2,12 @@
 
   <br><br>
 
-  <h3 align='center'>Hello :)<h3>
+  ### Hello :)
   <div align='center'>I'm PHP web dev.</div>
 
   <br>
 
-  <h3 align='center'>💼 Career 💼<h3>
+  ### 💼 Career 💼
   <div align='center'>
     2021.06 ~ 2022.06
     <br>
@@ -16,14 +16,14 @@
 
   <br>
 
-  <h3 align='center'>📚 Studying Now 📚<h3>
+  ### 📚 Studying Now 📚
   <div align='center'>
     Laravel, Vue.js, SPA-based project progress...
   </div>
 
   <br>
 
-  <h3 align='center'>🛠️ Tech Stack 🛠️<h3>
+  ### 🛠️ Tech Stack 🛠️
   <div align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
     <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat-square&logo=CSS3&logoColor=white" height='25' />
@@ -39,7 +39,7 @@
 
   <br>
 
-  <h3 align="center">🌈 Portfolio & Contact 🌈</h3>
+  ### 🌈 Portfolio & Contact 🌈
   <div align='center'>
     <a href='http://srcmachine.com/' target='_blank'>
       <img src="https://img.shields.io/badge/소스자판기-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" height='25' />
@@ -51,7 +51,7 @@
 
   <br>
 
-  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+  ### 👩‍💻 My Github Stats 👩‍💻
   <div align='center'>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)<br>
@@ -61,7 +61,7 @@
 
   <br>
 
-  <h3 align="center">🎲 Algorithm Skills 🎲</h3>
+  ### 🎲 Algorithm Skills 🎲
   <div align='center'>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
@@ -70,7 +70,7 @@
 
   <br>
 
-  <h3 align="center">🥰 Thank you for visiting 🥰</h3>
+  ### 🥰 Thank you for visiting 🥰
   <div align='center'>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin0917%2Fhit-counter&count_bg=%23FF77C7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
