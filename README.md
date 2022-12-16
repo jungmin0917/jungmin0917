@@ -9,13 +9,15 @@
   <p class="has-line-data" data-line-start="7" data-line-end="8">Studying Now...<br>
   Laravel, Vue.js, SPA and project progress..
 
-  <h3 align='center'>Tech Stack<h3>
+  <h3 align='center'>📚 Tech Stack 📚<h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat&logo=CSS3&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" height='25' />
+  <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/PHP-red?style=flat&logo=PHP&logoColor=white" height='25' />
+  <br>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/MySQL-green?style=flat&logo=MySQL&logoColor=white" height='25' />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" height='25' />
