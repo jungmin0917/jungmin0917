@@ -63,7 +63,7 @@
     
   <br>
     
-  <h3 align="center">🎲 ETC 🎲</h3>
+  <h3 align="center">🎲 Algorithm Skills 🎲</h3>
   <p align='center'>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
