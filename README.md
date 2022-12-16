@@ -10,4 +10,4 @@ Laravel, Vue.js, SPA and project progress..
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/php-green?style=flat&logo=php&logoColor=777BB4"/>
