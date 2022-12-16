@@ -1,12 +1,16 @@
 ![Header](./github-header-image.png)
 
 <div align='center'>
-  <h3 align='center'>I'm...<h3>
-  <p>PHP web dev.</p>
+  <h3 align='center'>Hello :)<h3>
+  <p>I'm PHP web dev.</p>
+  
+  <br>
   <p>
     Career<br>
     2021.06 ~ 2022.06  PHP-based Community websites maintenance
   </p>
+    
+  <br>
   <p>
     Studying Now...<br>
     Laravel, Vue.js, SPA and project progress..
