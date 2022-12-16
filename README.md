@@ -8,7 +8,9 @@
     
   <h3 align='center'>💼 Career 💼<h3>
   <p align='center'>
-    2021.06 ~ 2022.06  PHP-based Community websites maintenance
+    2021.06 ~ 2022.06
+    <br>
+    PHP-based Community websites maintenance
   </p>
     
   <br>
