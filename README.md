@@ -3,10 +3,11 @@
 <div align='center'>
   <h3 align='center'>Hello :)<h3>
   <p>I'm PHP web dev.</p>
-  
+ 
   <br>
+    
+  <h3 align='center'>💼 Career 💼<h3>
   <p>
-    Career<br>
     2021.06 ~ 2022.06  PHP-based Community websites maintenance
   </p>
     
@@ -18,6 +19,7 @@
   </p>
 
   <br>
+    
   <h3 align='center'>🛠️ Tech Stack 🛠️<h3>
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
@@ -32,11 +34,14 @@
     <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" height='25' />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
   </p>
+    
   <br>
 
   <h3 align="center">🌈 Contact 🌈</h3>
   <p align='center'>
-    
+    <a href='mailto:cloonds@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height='25' />
+    </a>
   </p>
   
     
