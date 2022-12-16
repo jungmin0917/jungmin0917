@@ -1,7 +1,5 @@
 <div align='center'>
 
-<br><br>
-
 ### 👋 Introduce 👋
     Hello :) I'm PHP web dev.
     I'm still a beginner, but I'm studying steadily every day.
