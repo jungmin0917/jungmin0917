@@ -52,7 +52,6 @@
   <p align='center'>
     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
-  <br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
     
   </p>
