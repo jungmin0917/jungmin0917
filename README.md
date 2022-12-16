@@ -2,19 +2,19 @@
 
 <div align='center'>
   <h3 align='center'>Hello :)<h3>
-  <p>I'm PHP web dev.</p>
+  <p align='center'>I'm PHP web dev.</p>
  
   <br>
     
   <h3 align='center'>💼 Career 💼<h3>
-  <p>
+  <p align='center'>
     2021.06 ~ 2022.06  PHP-based Community websites maintenance
   </p>
     
   <br>
   
   <h3 align='center'>📚 Studying Now 📚<h3>
-  <p>
+  <p align='center'>
     Laravel, Vue.js, SPA-based project progress...
   </p>
 
@@ -47,15 +47,16 @@
   <br>
   
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-    
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
+  <p align='center'>
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
-  <br>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
+  </p>
     
   <h3 align="center">🥰 Thank you for visiting 🥰</h3>
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin0917%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <p align='center'>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin0917%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  </p>
 
   <br>
 </div>
