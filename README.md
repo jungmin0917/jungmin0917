@@ -4,7 +4,8 @@
 
 <br><br>
 
-### Hello :) I'm PHP web dev.
+### 👋 Introduce 👋
+    Hello :) I'm PHP web dev.
 
 <br><br>
 
@@ -15,8 +16,7 @@
 <br><br>
 
 ### 📚 Studying Now 📚
-
-Laravel, Vue.js, SPA-based project progress...
+    Laravel, Vue.js, SPA-based project progress...
 
 <br><br>
 
