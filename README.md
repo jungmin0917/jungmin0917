@@ -50,10 +50,14 @@
   
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
   <p align='center'>
+    
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
-  <br>
+  <br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
+    
   </p>
+  
+  <br>
     
   <h3 align="center">🥰 Thank you for visiting 🥰</h3>
   <p align='center'>
