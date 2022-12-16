@@ -4,22 +4,22 @@
 
 <br><br>
 
-### Hello :)I'm PHP web dev.
+### Hello :) I'm PHP web dev.
 
-<br>
+<br><br>
 
 ### 💼 Career 💼
 2021.06 ~ 2022.06
 <br>
 PHP-based Community websites maintenance
 
-<br>
+<br><br>
 
 ### 📚 Studying Now 📚
 
 Laravel, Vue.js, SPA-based project progress...
 
-<br>
+<br><br>
 
 ### 🛠️ Tech Stack 🛠️
 
@@ -34,7 +34,7 @@ Laravel, Vue.js, SPA-based project progress...
 <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" height='25' />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
 
-<br>
+<br><br>
 
 ### 🌈 Portfolio & Contact 🌈
 
@@ -45,26 +45,23 @@ Laravel, Vue.js, SPA-based project progress...
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height='25' />
 </a>
 
-<br>
+<br><br>
 
 ### 👩‍💻 My Github Stats 👩‍💻
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
 
-
-<br>
+<br><br>
 
 ### 🎲 Algorithm Skills 🎲
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
 
-
-<br>
+<br><br>
 
 ### 🥰 Thank you for visiting 🥰
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin0917%2Fhit-counter&count_bg=%23FF77C7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 </div>
