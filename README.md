@@ -1,27 +1,39 @@
 ![Header](./github-header-image.png)
 
 <div align='center'>
-
   <h3 align='center'>I'm...<h3>
-  <p class="has-line-data" data-line-start="0" data-line-end="1">PHP web dev.</p>
-  <p class="has-line-data" data-line-start="2" data-line-end="4">Career<br>
-  2021.06 ~ 2022.06  PHP-based Community websites maintenance</p>
-  <p class="has-line-data" data-line-start="7" data-line-end="8">Studying Now...<br>
-  Laravel, Vue.js, SPA and project progress..
+  <p>PHP web dev.</p>
+  <p>
+    Career<br>
+    2021.06 ~ 2022.06  PHP-based Community websites maintenance
+  </p>
+  <p>
+    Studying Now...<br>
+    Laravel, Vue.js, SPA and project progress..
+  </p>
 
   <h3 align='center'>📚 Tech Stack 📚<h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat&logo=CSS3&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" height='25' />
+  <p align='center'>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat-square&logo=CSS3&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height='25' />
+    <br>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/PHP-red?style=flat-square&logo=PHP&logoColor=white" height='25' />
+    <br>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" height='25' />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height='25' />
+  </p>
   <br>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/PHP-red?style=flat&logo=PHP&logoColor=white" height='25' />
-  <br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/MySQL-green?style=flat&logo=MySQL&logoColor=white" height='25' />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" height='25' />
 
+  <h3 align="center">🌈 Contact 🌈</h3>
+  <p align='center'>
+    
+  </p>
+  
+    
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin0917&layout=compact&theme=tokyonight)
 
