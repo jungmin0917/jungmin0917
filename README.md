@@ -7,6 +7,7 @@
 ### 👋 Introduce 👋
     Hello :) I'm PHP web dev.
     I'm still a beginner, but I'm studying steadily every day.
+    I love developing and creating sites :)
 
 <br>
 
