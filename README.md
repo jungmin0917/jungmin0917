@@ -39,12 +39,6 @@
 
 <br><br>
 
-### 👩‍💻 My Github Stats 👩‍💻
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin0917&show_icons=true&theme=tokyonight)<br>
-
-<br>
-
 ### 🎲 Algorithm Skills 🎲
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
