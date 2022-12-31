@@ -7,9 +7,6 @@
 2021.06 ~ 2022.06
 PHP-based Community websites maintenance
 
-2023.xx ~ 
-???
-
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
