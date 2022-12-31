@@ -4,11 +4,11 @@
 <br>
 
 ### Career
-    2021.06 ~ 2022.06
-    PHP-based Community websites maintenance
-    
-    2023.xx ~ 
-    ???
+2021.06 ~ 2022.06
+PHP-based Community websites maintenance
+
+2023.xx ~ 
+???
 
 ### Tech Stack
 
