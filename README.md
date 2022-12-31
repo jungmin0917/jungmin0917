@@ -34,7 +34,7 @@ PHP-based Community websites maintenance
 
 <br>
 
-### Algorithm Skills
+### Algorithm Skills (Using PHP)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
 
