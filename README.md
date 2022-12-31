@@ -1,7 +1,6 @@
 <div align='center'>
 
-### 👋 Introduce 👋
-    Hello :) I'm PHP web dev.
+### Hello :) I'm PHP web dev.
 <br>
 
 ### 💼 Career 💼
