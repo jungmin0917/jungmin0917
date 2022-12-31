@@ -3,7 +3,7 @@
 ### Hello :) I'm PHP web dev.
 <br>
 
-### 💼 Career 💼
+### Career
     2021.06 ~ 2022.06
     PHP-based Community websites maintenance
     
@@ -12,7 +12,7 @@
 
 <br>
 
-### 🛠️ Tech Stack 🛠️
+### Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-3C72AD?style=flat-square&logo=CSS3&logoColor=white" />
@@ -27,7 +27,7 @@
 
 <br><br>
 
-### 🌈 Portfolio & Contact 🌈
+### Portfolio & Contact
 
 <a href='http://srcmachine.com/' target='_blank'>
 <img src="https://img.shields.io/badge/소스자판기-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" />
@@ -38,12 +38,8 @@
 
 <br><br>
 
-### 🎲 Algorithm Skills 🎲
+### Algorithm Skills
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://solved.ac/jungmin0917/)
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin0917%2Fhit-counter&count_bg=%23FF77C7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
