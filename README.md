@@ -9,7 +9,6 @@
     
     2023.xx ~ 
     ???
-
 <br>
 
 ### Tech Stack
@@ -25,7 +24,7 @@
 <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 
-<br><br>
+<br>
 
 ### Portfolio & Contact
 
@@ -36,7 +35,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ### Algorithm Skills
 
