@@ -16,7 +16,7 @@ PHP-based Community websites maintenance
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/PHP-red?style=flat-square&logo=PHP&logoColor=white" />>
+<img src="https://img.shields.io/badge/PHP-red?style=flat-square&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-red?style=flat-square&logo=Ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=MySQL&logoColor=white" />
