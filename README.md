@@ -6,7 +6,7 @@ Hello. I'm Web Developer.
 
 ### Career
 2021.06 ~ 2022.06
-PHP-based Community websites maintenance
+PHP-based Community websites maintenance (www.etoland.co.kr)
 
 ### Tech Stack
 
