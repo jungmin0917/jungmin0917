@@ -30,8 +30,8 @@ PHP-based Community websites maintenance (www.etoland.co.kr)
 <a href='http://srcmachine.com/' target='_blank'>
 <img src="https://img.shields.io/badge/소스자판기-4285F4?style=flat&logo=Google Chrome&logoColor=white" />
 </a>
-<a href='mailto:cloonds@gmail.com'>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+<a href='mailto:jungmin09172@naver.com'>
+<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" />
 </a>
 
 <br>
