@@ -25,7 +25,11 @@ PHP-based Community websites maintenance (www.etoland.co.kr)
 
 <br>
 
-### Portfolio & Contact
+### Portfolio
+
+<br>
+  
+### Contact
 
 <a href='mailto:jungmin09172@naver.com'>
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" />
