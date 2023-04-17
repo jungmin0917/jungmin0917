@@ -1,7 +1,7 @@
 <div align='center'>
 
 ### :D
-Hello. I'm Web Developer
+Hello. I'm Web Developer.
 <br>
 
 ### Career
