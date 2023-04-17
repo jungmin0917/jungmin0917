@@ -1,8 +1,7 @@
 <div align='center'>
 
 ### :D
-Hello. I'm Web Developer.<br>
-Developer roadmap --> https://roadmap.sh/
+Hello. I'm Web Developer
 <br>
 
 ### Career
