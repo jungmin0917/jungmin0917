@@ -3,13 +3,13 @@
 ### :D
 Hello. I'm Web Developer.
 <br>
-2023.03 ~ 
-Java studying
-<br>
 
 ### Career
 2021.06 ~ 2022.06
 PHP-based Community websites renewal & maintenance (www.etoland.co.kr)
+<br>
+2023.03 ~ 
+Java studying
 
 ### Tech Stack
 
