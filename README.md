@@ -45,7 +45,8 @@ Java studying
 <br>
 
 ### Books I Read
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA</a>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴</a>
 <br>
 
 ### Portfolio
