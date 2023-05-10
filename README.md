@@ -1,5 +1,4 @@
 <div align='center'>
-![1](https://github.com/jungmin0917/jungmin0917/assets/84753700/a6d974b6-0fc9-4511-8ee4-0bd063aafa1f)
 
 ### :D
 Hello. I'm Web Developer.
