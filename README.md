@@ -1,6 +1,6 @@
 <div align='center'>
   
-![1](https://github.com/jungmin0917/jungmin0917/blob/main/1.gif)
+<img src="https://github.com/jungmin0917/jungmin0917/blob/main/main.gif" width="250" height="250"/>
 
 ### :D
 Hello. I'm Web Developer.
