@@ -1,4 +1,6 @@
 <div align='center'>
+  
+![1](https://github.com/jungmin0917/jungmin0917/blob/main/1.gif)
 
 ### :D
 Hello. I'm Web Developer.
