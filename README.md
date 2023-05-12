@@ -8,7 +8,7 @@ Hello. I'm web developer. I like to make something!
 
 ### Career
 2021.06 ~ 2022.06
-PHP-based Community websites renewal & maintenance (www.etoland.co.kr)
+PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br>
 2023.03 ~ 
 Java studying
