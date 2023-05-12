@@ -3,7 +3,7 @@
 <img src="https://github.com/jungmin0917/jungmin0917/blob/main/main.gif" width="250" height="250"/>
 
 ### :D
-Hello. I'm Web Developer. I like to make something!
+Hello. I'm web developer. I like to make something!
 <br>
 
 ### Career
