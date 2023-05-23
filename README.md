@@ -14,7 +14,9 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java studying
   
 ### Portfolio
-2023.05 ~ working
+2023.05.04 ~ knotted clone-coding working
+<br>
+2023.05.2? ~ new project  
 <br>
 
 ### Tech Stack
