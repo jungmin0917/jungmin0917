@@ -14,7 +14,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java studying
   
 ### Portfolio
-2023.05.04 ~ 2023.05.24 knotted clone-coding (http://knotted.site) (by oneself)
+2023.05.04 ~ 2023.05.24 knotted clone-coding (https://knotted.site) (by oneself)
 <br>
 2023.05.2? ~ new project (by collaboration)
 <br>
