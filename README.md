@@ -5,16 +5,16 @@ Hello. I'm web developer. I like to make something!
 <br>
 
 ### Career
-2021.06 ~ 2022.06
+2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br>
-2023.03 ~ 
-Java studying
   
 ### Portfolio
-2023.05.04 ~ 2023.05.24 knotted clone-coding (https://knotted.site) (by oneself)
+2023.05.04 ~ 2023.05.24<br>
+Spring Boot, JPA, Vue.js - knotted clone-coding (https://knotted.site) (by oneself)
 <br>
-2023.05.2? ~ new project (by collaboration)
+2023.05.2? ~<br>
+new project (by collaboration)
 <br>
 
 ### Tech Stack
