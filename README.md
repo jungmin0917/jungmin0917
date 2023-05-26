@@ -9,7 +9,7 @@ Hello. I'm web developer. I like to make something!
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
 2023.03 ~<br>
-Java, JSP, Spring, Spring Boot, JS, Vue.js, React Studying
+Java, JSP, Spring Boot, JS, Vue.js, React Studying
 <br>
   
 ### Portfolio
