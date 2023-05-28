@@ -63,6 +63,7 @@ new project (by collaboration)
 <br>
 <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
 <br>
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
