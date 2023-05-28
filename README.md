@@ -41,6 +41,7 @@ new project (by collaboration)
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <br>
   
 ### To Learn
