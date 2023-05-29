@@ -7,6 +7,7 @@ Hello. I'm web developer. I like to make something!
 ### Career & Study
 2021.02 ~ 2021.06<br>
 HTML/CSS, PHP, MySQL Study
+<br><br>
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
