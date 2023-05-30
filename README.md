@@ -6,13 +6,13 @@ Hello. I'm web developer. I like to make something!
 
 ### Career & Study
 2021.03 ~ 2021.06<br>
-HTML/CSS, Javascript, PHP, MySQL Study
+HTML/CSS, Javascript, PHP, MySQL study
 <br><br>
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
 2023.03 ~<br>
-Java, JSP, Spring Boot, Vue.js, React Studying
+Java, JSP, Spring Boot, Vue.js, React studying
 <br>
   
 ### Portfolio
