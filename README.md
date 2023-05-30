@@ -16,11 +16,11 @@ Java, JSP, Spring Boot, Vue.js, React Studying
 <br>
   
 ### Portfolio
-2023.05.04 ~ 2023.05.24<br>
-Java - knotted clone-coding (https://knotted.site) work complete (by oneself)
+2023.05.04 ~ 2023.05.24 Work complete<br>
+Java - knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
-2023.05.30 ~ <br>
-Java, Vue.js - MMOTI (SPA) (https://mmoti.site) working (by oneself)
+2023.05.30 ~ Working <br>
+Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
 2023.06.0? ~<br>
 new project (by collaboration)
