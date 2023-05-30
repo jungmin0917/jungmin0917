@@ -12,7 +12,7 @@ HTML/CSS, Javascript, PHP, MySQL study
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
 2023.03 ~<br>
-Java, JSP, Spring Boot, Vue.js, React studying
+Java, JSP, Spring Boot, Vue.js studying
 <br>
   
 ### Portfolio
