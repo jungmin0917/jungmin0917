@@ -22,7 +22,7 @@ Java - knotted clone-coding (https://knotted.site) (by oneself)
 2023.05.30 ~ Working <br>
 Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
-2023.06.0? ~<br>
+2023.06.03 ~<br>
 new project (by collaboration)
 <br>
 
