@@ -2,7 +2,7 @@
 
 ### :D
 Hello. I'm web developer. I like to make something!
-<br>
+<br><br>
 
 ### Career & Study
 2021.03 ~ 2021.06<br>
@@ -13,7 +13,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
 2023.03 ~<br>
 Java, JSP, Spring Boot, Vue.js studying
-<br>
+<br><br>
   
 ### Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
@@ -24,7 +24,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
 2023.06.03 ~<br>
 new project (by collaboration)
-<br>
+<br><br>
 
 ### Tech Stack
 
@@ -53,8 +53,7 @@ new project (by collaboration)
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<br>
-<br>
+<br><br>
   
 ### To Learn
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
@@ -81,12 +80,13 @@ new project (by collaboration)
 <br>
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
+<br><br>
 
 ### Books I Read
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300366903'>실전 SPA 개발 리액트 with 타입스크립트 + 스프링 부트 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a>
-<br>
+<br><br>
   
 ### Contact
 
