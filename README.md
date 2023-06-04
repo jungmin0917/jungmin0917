@@ -92,7 +92,6 @@ new project (by collaboration)
 <a href='mailto:jungmin09172@naver.com'>
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" />
 </a>
-
 <br><br>
 
 ### Algorithm Skills (Using PHP, Java, etc.)
