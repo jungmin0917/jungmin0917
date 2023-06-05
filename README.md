@@ -23,7 +23,7 @@ Java - knotted clone-coding (https://knotted.site) (by oneself)
 Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
 2023.06.03 ~<br>
-new project (by collaboration)
+Java - Chamaru (by collaboration)
 <br><br>
 
 ### Tech Stack
