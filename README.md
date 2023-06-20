@@ -14,7 +14,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 2023.03 ~<br>
 Java, JSP, Spring Boot, Vue.js studying
 <br><br>
-2023.06 ~ 2023.06
+2023.06 ~ 2023.06<br>
 Craftsman Information Processing written test study
 <br><br>
 
