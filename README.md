@@ -15,9 +15,11 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java, JSP, Spring Boot, Vue.js studying
 <br><br>
 2023.06<br>
-Craftsman Information Processing (Written Test) study
+Craftsman Information Processing (for Written Test) study
 <br><br>
-
+2023.08<br>
+Craftsman Information Processing (for Practical Test) study
+<br><br>
   
 ### Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
