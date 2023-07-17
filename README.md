@@ -17,7 +17,7 @@ Java, JSP, Spring Boot, Vue.js study
 2023.06<br>
 Craftsman Information Processing (for Written Test) study
 <br><br>
-2023.07<br>
+2023.07 ~ 2024.01<br>
 Java, JSP, Spring Boot, React study
 <br><br>
 2023.08<br>
