@@ -12,13 +12,13 @@ HTML/CSS, Javascript, PHP, MySQL study
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
 2023.03 ~ 2023.06<br>
-Java, JSP, Spring Boot, Vue.js study
+Java, JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.06<br>
 Craftsman Information Processing (for Written Test) study
 <br><br>
 2023.07 ~ 2024.01<br>
-Java, JSP, Spring Boot, React study
+Java, JSP, Spring Boot, React study (at academy)
 <br><br>
 2023.08<br>
 Craftsman Information Processing (for Practical Test) study
