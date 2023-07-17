@@ -18,7 +18,7 @@ Java, JSP, Spring Boot, Vue.js study
 Craftsman Information Processing (for Written Test) study
 <br><br>
 2023.07<br>
-Bumming around...
+Java, JSP, Spring Boot, React study
 <br><br>
 2023.08<br>
 Craftsman Information Processing (for Practical Test) study
