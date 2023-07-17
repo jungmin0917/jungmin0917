@@ -28,11 +28,8 @@ Craftsman Information Processing (for Practical Test) study
 2023.05.04 ~ 2023.05.24 Work complete<br>
 Java - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
-2023.05.30 ~ Working <br>
+2023.05.30 ~ 2023.06.30 Work suspended<br>
 Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
-<br><br>
-2023.06.03 ~<br>
-Java - Chamaru (by collaboration)
 <br><br>
 
 ### Tech Stack
