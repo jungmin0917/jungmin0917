@@ -20,7 +20,7 @@ Craftsman Information Processing (for Written Test) study
 2023.07 ~ 2024.01<br>
 Java, JSP, Spring Boot, React study (at academy)
 <br><br>
-2023.08<br>
+2023.07 ~ 2023.08<br>
 Craftsman Information Processing (for Practical Test) study
 <br><br>
   
