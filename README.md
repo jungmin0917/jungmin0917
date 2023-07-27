@@ -1,7 +1,7 @@
 <div align='center'>
 
 ### :D
-Hello. I'm web developer. I like to make something!
+열심히 배우고자 하는 초보 웹개발자입니다.
 <br><br>
 
 ### Career & Study
