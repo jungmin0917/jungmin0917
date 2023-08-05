@@ -101,6 +101,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303753382'>2023 유선배 SQL개발자(SQLD) 과외노트 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848'>SQL 자격검정 실전문제 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533'>Let's 실전예제로 배우는 자바 PROGRAMMING (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
