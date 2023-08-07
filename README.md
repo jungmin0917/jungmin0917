@@ -5,30 +5,19 @@
 공부가 곧 성장입니다.
 <br><br>
 
-### Career
-<!--
+### Career & Study
 2021.03 ~ 2021.06<br>
 HTML/CSS, Javascript, PHP, MySQL study (at academy)
 <br><br>
--->
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 <br><br>
-<!--
 2023.03 ~ 2023.06<br>
 Java, JSP, Spring Boot, Vue.js study (by oneself)
-<br><br>
-2023.06<br>
-Craftsman Information Processing (for Written Test) study
 <br><br>
 2023.07 ~ 2024.01<br>
 Java, JSP, Spring Boot, React study (at academy)
 <br><br>
-2023.07 ~ 2023.08<br>
-Craftsman Information Processing (for Practical Test) study<br>
-SQLD (for Test) study
-<br><br>
--->
   
 ### Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
