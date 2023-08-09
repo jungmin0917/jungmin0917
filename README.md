@@ -16,7 +16,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java, JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.07 ~ 2024.01<br>
-Java, JSP, Spring Boot, React study (at academy)
+Java, Oracle DB, Spring Boot, React study (at academy)
 <br><br>
   
 ### Portfolio
@@ -50,7 +50,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 #### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=OracleDB&logoColor=white" />
   
 #### Infra & ETC
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
