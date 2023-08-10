@@ -16,7 +16,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java, JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.07 ~ 2024.01<br>
-Java, Spring Boot, React, Oracle DB study (at academy)
+Java, Spring Boot, React, OracleDB study (at academy)
 <br><br>
   
 ### Portfolio
