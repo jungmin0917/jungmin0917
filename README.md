@@ -22,9 +22,11 @@ Java, Spring Boot, React, OracleDB study (at academy)
 2023.05.04 ~ 2023.05.24 Work complete<br>
 Java - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
+<!--
 2023.05.30 ~ 2023.06.30 Work suspended<br>
 Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
+-->
 
 ### Tech Stack
 
