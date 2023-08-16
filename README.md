@@ -80,12 +80,11 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
-<!--<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />-->
-<br><br>
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
+<!--<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />-->
+<br><br>
 
 ### Books I Read
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
