@@ -118,8 +118,4 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://www.acmicpc.net/user/jungmin0917)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jungmin0917&theme=warm)
 
-
-
 </div>
-
-
