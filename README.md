@@ -6,7 +6,7 @@
 
 ### Career & Study
 2021.03 ~ 2021.06<br>
-HTML/CSS, Javascript, PHP, MySQL study (at academy)
+HTML/CSS, JavaScript, PHP, MySQL study (at academy)
 <br><br>
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (www.etoland.co.kr)
@@ -15,7 +15,7 @@ PHP-based community websites renewal & maintenance (www.etoland.co.kr)
 Java, JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.07 ~ 2024.01<br>
-Java, Spring Boot, React, OracleDB study (at academy)
+Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
 <br><br>
   
 ### Portfolio
