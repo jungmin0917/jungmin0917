@@ -114,7 +114,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Preparing)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Preparing)</a><br>
 <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 2급 (Preparing)</a><br>
-<br><br>
+<br>
 
 ### Contact
 
