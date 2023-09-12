@@ -100,6 +100,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529'>Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410'>이펙티브 자바 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
