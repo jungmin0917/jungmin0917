@@ -106,6 +106,16 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
 <br>
 
+### Certificate
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass)</a><br>
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass)</a><br>
+<a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass)</a><br>
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Preparing)</a><br>
+<a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Preparing)</a><br>
+<a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Preparing)</a><br>
+<a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 2급 (Preparing)</a><br>
+
+
 ### Contact
 
 <a href='mailto:jungmin09172@naver.com'>
