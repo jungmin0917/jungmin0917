@@ -90,7 +90,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
 
 ### Books I Read (at over 80%)
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303486245'>2023 유선배 SQL개발자(SQLD) 과외노트 (Read)</a><br>
