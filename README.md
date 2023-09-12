@@ -89,17 +89,17 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <!--<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />-->
 <br><br>
 
-### Books I Read
+### Books I Read (at over 80%)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303486245'>2023 유선배 SQL개발자(SQLD) 과외노트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848'>SQL 자격검정 실전문제 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260969948'>CentOS 7으로 리눅스마스터 2급 정복하기 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533'>Let's 실전예제로 배우는 자바 PROGRAMMING (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529'>Let's 실전 예제로 배우는 HTML5 & CSS3 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848'>SQL 자격검정 실전문제 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260969948'>CentOS 7으로 리눅스마스터 2급 정복하기 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533'>Let's 실전예제로 배우는 자바 PROGRAMMING (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529'>Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
 <br>
