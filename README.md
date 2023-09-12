@@ -104,6 +104,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
+<br>
 
 ### Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass)</a><br>
