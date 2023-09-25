@@ -9,7 +9,7 @@
 HTML/CSS, JavaScript, PHP, MySQL study (at academy)
 <br><br>
 2021.06 ~ 2022.06<br>
-PHP-based community websites renewal & maintenance (www.etoland.co.kr)
+PHP-based community websites renewal & maintenance
 <br><br>
 2023.03 ~ 2023.06<br>
 Java, JSP, Spring Boot, Vue.js study (by oneself)
