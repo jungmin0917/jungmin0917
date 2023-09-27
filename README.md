@@ -20,11 +20,16 @@ Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
   
 ### Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
-Java - Knotted clone-coding (https://knotted.site) (by oneself)
+Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
+2023.05.30 ~ 2023.06.30 Working<br>
+Java, JSP - Kurly clone-coding
+<br><br>
+<!--
 2023.05.30 ~ 2023.06.30 Work suspended<br>
 Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <br><br>
+-->
 
 ### Tech Stack
 
