@@ -22,7 +22,7 @@ Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
 2023.05.04 ~ 2023.05.24 Work complete<br>
 Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
-2023.09.30 ~ Working<br>
+2023.10.01 ~ Working<br>
 Java, JSP - Kurly clone-coding
 <br><br>
 <!--
