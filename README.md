@@ -55,11 +55,8 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
 <br><br>
   
@@ -105,6 +102,10 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/WinSCP-32B9DC?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/MobaXterm-353535?style=flat&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <br><br>
 
 ### Books I Read (at over 80%)
