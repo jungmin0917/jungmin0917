@@ -2,7 +2,6 @@
 
 ### :D
 열심히 배우고자 하는 초보 웹개발자입니다.
-
 <br><br>
 
 ### Career & Study
@@ -17,7 +16,6 @@ Java, JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.07 ~ 2024.01<br>
 Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
-
 <br><br>
   
 ### Portfolio
@@ -26,7 +24,6 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <br><br>
 2023.10.01 ~ Working<br>
 Java, JSP - Kurly clone-coding
-
 <br><br>
 
 ### Tech Stack
