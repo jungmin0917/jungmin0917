@@ -103,6 +103,9 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/HeidiSQL-45AC00?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
 <br><br>
 
 ### Books I Read (at over 80%)
