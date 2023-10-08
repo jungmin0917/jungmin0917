@@ -93,7 +93,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 -->
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
-<br><br>
+<br>
 
 ### Tools
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
