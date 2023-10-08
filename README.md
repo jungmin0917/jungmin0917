@@ -120,7 +120,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629'>그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151'>IT 개발자의 거의 모든 것 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
-<br>
+<br><br>
 
 ### Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass)</a><br>
@@ -130,7 +130,7 @@ Java, Vue.js - MMOTI (SPA) (https://mmoti.site) (by oneself)
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass)</a><br>
 <!-- <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 1급 (Preparing)</a><br> -->
-<br>
+<br><br>
 
 ### Contact
 
