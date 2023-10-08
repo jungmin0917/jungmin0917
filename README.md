@@ -66,24 +66,14 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<!--
-<img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat&logo=elasticstack&logoColor=white" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
--->
+
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
 <br><br>
