@@ -4,7 +4,7 @@
 열심히 배우고자 하는 초보 웹개발자입니다.
 <br><br>
 
-### Career & Study
+### 💼 Career & Study
 2021.03 ~ 2021.06<br>
 HTML/CSS, JavaScript, PHP, MySQL study (at academy)
 <br><br>
@@ -18,7 +18,7 @@ Java, JSP, Spring Boot, Vue.js study (by oneself)
 Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
 <br><br>
   
-### Portfolio
+### 📋 Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
 Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
@@ -26,7 +26,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 Java, JSP - Kurly clone-coding
 <br><br>
 
-### Tech Stack
+### 💻 Tech Stack
 
 #### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -60,7 +60,7 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
 <br><br>
   
-### To Learn
+### 📚 To Learn
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
@@ -88,7 +88,7 @@ Java, JSP - Kurly clone-coding
 <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
 <br><br>
 
-### Tools
+### 🛠️ Tools
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
@@ -108,7 +108,7 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <br><br>
 
-### Books I Read (at over 80%)
+### 📖 Books I Read (at over 80%)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
@@ -129,7 +129,7 @@ Java, JSP - Kurly clone-coding
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
 <br>
 
-### Certificate
+### 📜 Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass)</a><br>
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass)</a><br>
 <a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass)</a><br>
@@ -139,14 +139,14 @@ Java, JSP - Kurly clone-coding
 <!-- <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 1급 (Preparing)</a><br> -->
 <br>
 
-### Contact
+### ✉️ Contact
 
 <a href='mailto:jungmin09172@naver.com'>
 <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" />
 </a>
 <br><br>
 
-### Algorithm Skills (Using PHP, Java, etc.)
+### 👩🏻‍💻 Algorithm Skills (Using PHP, Java, etc.)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jungmin0917)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungmin0917)](https://www.acmicpc.net/user/jungmin0917)
