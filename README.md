@@ -37,6 +37,7 @@ Java, JSP - Kurly clone-coding
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 
 #### Backend
 <img src="https://img.shields.io/badge/Java-0099E5?style=flat&logo=OpenJDK&logoColor=white" />
