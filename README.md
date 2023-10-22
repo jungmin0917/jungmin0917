@@ -13,10 +13,10 @@ HTML/CSS, JavaScript, PHP, MySQL study (at academy)
 PHP-based community websites renewal & maintenance (https://www.etoland.co.kr/)
 <br><br>
 2023.03 ~ 2023.06<br>
-Java, JSP, Spring Boot, Vue.js study (by oneself)
+Java, Servlet/JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
 2023.07 ~ 2024.01<br>
-Java, Spring Boot, JavaScript, React, OracleDB study (at academy)
+Java, Servlet/JSP, Spring, JavaScript, React, OracleDB study (at academy)
 <br><br>
   
 ### 📋 Portfolio
