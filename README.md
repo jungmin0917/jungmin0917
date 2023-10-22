@@ -106,35 +106,35 @@ Java, JSP - Kurly clone-coding
 <br><br>
 
 ### 📖 Books I Read (at over 80%)
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303486245'>2023 유선배 SQL개발자(SQLD) 과외노트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848'>SQL 자격검정 실전문제 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260969948'>CentOS 7으로 리눅스마스터 2급 정복하기 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533'>Let's 실전예제로 배우는 자바 PROGRAMMING (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529'>Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410'>이펙티브 자바 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352'>코드로 배우는 스프링 웹 프로젝트 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454'>내 코드가 그렇게 이상한가요? (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629'>그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151'>IT 개발자의 거의 모든 것 (Reading)</a><br>
-<!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116' target="_blank">스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162' target="_blank">2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210' target="_blank">2023 시나공 정보처리기능사 실기 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303486245' target="_blank">2023 유선배 SQL개발자(SQLD) 과외노트 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848' target="_blank">SQL 자격검정 실전문제 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260969948' target="_blank">CentOS 7으로 리눅스마스터 2급 정복하기 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533' target="_blank">Let's 실전예제로 배우는 자바 PROGRAMMING (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583' target="_blank">하루 10분 SQL (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529' target="_blank">Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136' target="_blank">바닐라 자바스크립트 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410' target="_blank">이펙티브 자바 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545' target="_blank">모던 자바스크립트 Deep Dive (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352' target="_blank">코드로 배우는 스프링 웹 프로젝트 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473' target="_blank">헤드 퍼스트 디자인 패턴 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454' target="_blank">내 코드가 그렇게 이상한가요? (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629' target="_blank">그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151' target="_blank">IT 개발자의 거의 모든 것 (Reading)</a><br>
+<!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581' target="_blank">스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
 <br>
 
 ### 📜 Certificate
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass)</a><br>
-<a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass)</a><br>
-<a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass)</a><br>
-<a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass)</a><br>
-<a href='https://certi.programmers.co.kr/about/pcce?tab=range'>PCCE using C++ (Preparing)</a><br>
-<!-- <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 1급 (Preparing)</a><br> -->
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780' target="_blank">전기기능사 (Pass)</a><br>
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId' target="_blank">정보기기운용기능사 (Pass)</a><br>
+<a href='https://www.icqa.or.kr/cn/page/network' target="_blank">네트워크관리사 2급 (Pass)</a><br>
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921' target="_blank">정보처리기능사 (Pass)</a><br>
+<a href='https://www.dataq.or.kr/www/sub/a_04.do' target="_blank">SQLD (Pass)</a><br>
+<a href='https://www.ihd.or.kr/introducesubject1.do' target="_blank">리눅스마스터 2급 (Pass)</a><br>
+<a href='https://certi.programmers.co.kr/about/pcce?tab=range' target="_blank">PCCE using C++ (Preparing)</a><br>
+<!-- <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103' target="_blank">컴퓨터활용능력 1급 (Preparing)</a><br> -->
 <br>
 
 ### ✉️ Contact
