@@ -133,7 +133,7 @@ Java, JSP - Kurly clone-coding
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921' target="_blank">정보처리기능사 (Pass)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do' target="_blank">SQLD (Pass)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do' target="_blank">리눅스마스터 2급 (Pass)</a><br>
-<a href='https://certi.programmers.co.kr/about/pcce?tab=range' target="_blank">PCCE using C++ (Preparing)</a><br>
+<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification' target="_blank">PCCE using C++ (Preparing)</a><br>
 <!-- <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103' target="_blank">컴퓨터활용능력 1급 (Preparing)</a><br> -->
 <br>
 
