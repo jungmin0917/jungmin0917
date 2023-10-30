@@ -117,9 +117,9 @@ Java, JSP - Kurly clone-coding
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583' target="_blank">하루 10분 SQL (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529' target="_blank">Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136' target="_blank">바닐라 자바스크립트 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352' target="_blank">코드로 배우는 스프링 웹 프로젝트 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410' target="_blank">이펙티브 자바 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545' target="_blank">모던 자바스크립트 Deep Dive (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352' target="_blank">코드로 배우는 스프링 웹 프로젝트 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473' target="_blank">헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454' target="_blank">내 코드가 그렇게 이상한가요? (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629' target="_blank">그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
