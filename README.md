@@ -1,7 +1,7 @@
 <div align='center'>
 
 ### :D
-백엔드 개발자가 되고자 하는 초보 웹개발자입니다.<br>
+백엔드 개발자가 되고자 하는 초보 웹개발자입니다.
 <br><br>
 
 ### 💼 Career & Study
@@ -116,12 +116,12 @@ Java, JSP - Kurly clone-coding
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529' target="_blank">Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136' target="_blank">바닐라 자바스크립트 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352' target="_blank">코드로 배우는 스프링 웹 프로젝트 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151' target="_blank">IT 개발자의 거의 모든 것 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410' target="_blank">이펙티브 자바 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545' target="_blank">모던 자바스크립트 Deep Dive (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473' target="_blank">헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454' target="_blank">내 코드가 그렇게 이상한가요? (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629' target="_blank">그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151' target="_blank">IT 개발자의 거의 모든 것 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581' target="_blank">스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br> -->
 <br>
 
