@@ -90,16 +90,17 @@ Java, JSP - Kurly clone-coding
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/HeidiSQL-45AC00?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/WinSCP-32B9DC?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/MobaXterm-353535?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenSSH-E6C242?style=flat&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/OpenSSH-E6C242?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
