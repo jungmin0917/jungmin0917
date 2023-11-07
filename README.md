@@ -85,10 +85,10 @@ Java, JSP - Kurly clone-coding
 <br><br>
 
 ### 🛠️ Tools
-<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=&logoColor=white" />
