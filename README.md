@@ -126,6 +126,8 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257114341'>그림으로 공부하는 IT 인프라 구조 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592'>HTTP 완벽 가이드 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=218568947'>스프링 부트와 AWS로 혼자 구현하는 웹 서비스 (Reading)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=204819510'>리액트를 다루는 기술 (Reading)</a><br>
 <br>
 
 ### 📜 Certificate
