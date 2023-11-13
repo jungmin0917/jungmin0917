@@ -36,7 +36,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 
 #### Backend
 <img src="https://img.shields.io/badge/Java-0099E5?style=flat&logo=OpenJDK&logoColor=white" />
