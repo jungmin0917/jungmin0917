@@ -139,7 +139,8 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
 <a href='https://license.korcham.net/co/examguide.do?mm=21&cd=0103'>컴퓨터활용능력 2급 (Preparing)</a><br>
-<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification'>PCCE using C++ (Preparing)</a><br>
+<!--
+<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification'>PCCE using C++ (Preparing)</a><br>-->
 <br>
 
 ### ✉️ Contact
