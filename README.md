@@ -72,7 +72,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <br>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic Beanstalk-FF9900?style=flat&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic Beanstalk-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
