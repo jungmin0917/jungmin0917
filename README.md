@@ -1,7 +1,7 @@
 <div align='center'>
 
 ### :D
-백엔드 개발자가 되고자 하는 초보 웹개발자입니다
+초보 웹개발자입니다
 <br><br>
 
 ### 💼 Career & Study
