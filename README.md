@@ -122,6 +122,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352'>코드로 배우는 스프링 웹 프로젝트 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151'>IT 개발자의 거의 모든 것 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=204819510'>리액트를 다루는 기술 (Read) (~536p)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410'>이펙티브 자바 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
@@ -131,7 +132,6 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=218568947'>스프링 부트와 AWS로 혼자 구현하는 웹 서비스 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257114341'>그림으로 공부하는 IT 인프라 구조 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592'>HTTP 완벽 가이드 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=204819510'>리액트를 다루는 기술 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281982822'>리액트 네이티브를 다루는 기술 (Reading)</a><br>
 <br>
 
