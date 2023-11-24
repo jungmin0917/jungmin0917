@@ -139,7 +139,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 ### 📜 Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass, 2016)</a><br>
 <a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass, 2016)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass, 2018)</a><br>
+<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass, 2019)</a><br>
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass, 2023)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
