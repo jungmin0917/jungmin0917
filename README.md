@@ -94,7 +94,7 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
 <br>
-<--<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />-->
+<!--<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />-->
 <img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/HeidiSQL-45AC00?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
