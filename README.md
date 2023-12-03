@@ -163,5 +163,3 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 
 </div>
 
-
-
