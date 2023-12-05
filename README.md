@@ -125,12 +125,12 @@ Java, Spring Boot, JPA, Vue.js - Knotted clone-coding (https://knotted.site) (by
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151'>IT 개발자의 거의 모든 것 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=204819510'>리액트를 다루는 기술 (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Read)</a><br>
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301538431'>React.js, 스프링 부트, AWS로 배우는 웹 개발 101 2/e (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410'>이펙티브 자바 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454'>내 코드가 그렇게 이상한가요? (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629'>그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301538431'>React.js, 스프링 부트, AWS로 배우는 웹 개발 101 2/e (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257114341'>그림으로 공부하는 IT 인프라 구조 (Reading)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592'>HTTP 완벽 가이드 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281982822'>리액트 네이티브를 다루는 기술 (Reading)</a><br> -->
