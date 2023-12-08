@@ -23,7 +23,7 @@ Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study (at academy)
 Java, Spring Boot, JPA, Vue.js, Github Actions - Knotted clone-coding (https://knotted.site) (by oneself)
 <br><br>
 2023.12.08 ~<br>
-Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (by oneself)
+Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (https://kurly.site) (by oneself)
 <br><br>
 
 ### 💻 Tech Stack
