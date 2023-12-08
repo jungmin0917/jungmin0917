@@ -21,8 +21,8 @@ Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study (at academy)
 ### 📋 Portfolio
 2023.05.04 ~ 2023.05.24 Work complete<br>
 Java, Spring Boot, JPA, Vue.js, Github Actions - Knotted clone-coding (https://knotted.site) (by oneself)
-<br>
-2023.12.08 ~
+<br><br>
+2023.12.08 ~<br>
 Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (by oneself)
 <br><br>
 
