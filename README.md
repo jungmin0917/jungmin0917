@@ -14,7 +14,7 @@ PHP-based community websites renewal & maintenance (https://www.etoland.co.kr/)
 2023.03 ~ 2023.06<br>
 Java, Servlet/JSP, Spring Boot, Vue.js study (by oneself)
 <br><br>
-2023.07 ~ 2024.01<br>
+2023.07 ~ 2023.12<br>
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study (at academy)
 <br><br>
   
