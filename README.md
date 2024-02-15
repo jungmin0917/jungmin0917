@@ -20,15 +20,6 @@ Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 2024.02 ~<br>
 Freelance web developing
 <br><br>
-  
-### 📋 Portfolio
-### <a href='https://jungmin.site'>포트폴리오 페이지<a>
-2023.05.04 ~ 2023.05.24 Work complete<br>
-Java, Spring Boot, JPA, Vue.js, Github Actions - Knotted clone-coding (https://knotted.jungmin.site)
-<br><br>
-2023.12.08 ~<br>
-Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (https://kurly.jungmin.site)
-<br><br>
 
 ### 💻 Tech Stack
 
