@@ -6,16 +6,16 @@
 
 ### 💼 Career & Study
 2021.03 ~ 2021.06<br>
-HTML/CSS, JavaScript, PHP, MySQL study (at academy)
+HTML/CSS, JavaScript, PHP, MySQL study
 <br><br>
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance (https://www.etoland.co.kr/)
 <br><br>
 2023.03 ~ 2023.06<br>
-Java, Servlet/JSP, Spring Boot, Vue.js study (by oneself)
+Java, Servlet/JSP, Spring Boot, Vue.js study
 <br><br>
 2023.07 ~ 2023.12<br>
-Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study (at academy)
+Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
 2024.02 ~<br>
 Freelance web developing
@@ -24,10 +24,10 @@ Freelance web developing
 ### 📋 Portfolio
 ### <a href='https://jungmin.site'>포트폴리오 페이지<a>
 2023.05.04 ~ 2023.05.24 Work complete<br>
-Java, Spring Boot, JPA, Vue.js, Github Actions - Knotted clone-coding (https://knotted.jungmin.site) (by oneself)
+Java, Spring Boot, JPA, Vue.js, Github Actions - Knotted clone-coding (https://knotted.jungmin.site)
 <br><br>
 2023.12.08 ~<br>
-Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (https://kurly.jungmin.site) (by oneself)
+Java, Spring Boot, JPA, Github Actions - Kurly clone-coding (https://kurly.jungmin.site)
 <br><br>
 
 ### 💻 Tech Stack
