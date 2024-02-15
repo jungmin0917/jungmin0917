@@ -17,6 +17,9 @@ Java, Servlet/JSP, Spring Boot, Vue.js study (by oneself)
 2023.07 ~ 2023.12<br>
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study (at academy)
 <br><br>
+2024.02 ~<br>
+Freelance web developing
+<br><br>
   
 ### 📋 Portfolio
 ### <a href='https://jungmin.site'>포트폴리오 페이지<a>
