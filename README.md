@@ -1,7 +1,7 @@
 <div align='center'>
 
 ### :D
-초보 웹개발자입니다
+PHP 위주 프리랜서입니다
 <br><br>
 
 ### 💼 Career & Study
