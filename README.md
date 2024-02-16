@@ -101,34 +101,6 @@ Freelance web developing
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <br><br>
 
-<!--
-### 📖 Books I Read (at over 80%)
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310432210'>2023 시나공 정보처리기능사 실기 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303486245'>2023 유선배 SQL개발자(SQLD) 과외노트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97612848'>SQL 자격검정 실전문제 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260969948'>CentOS 7으로 리눅스마스터 2급 정복하기 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406533'>Let's 실전예제로 배우는 자바 PROGRAMMING (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244178583'>하루 10분 SQL (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406529'>Let's 실전 예제로 배우는 HTML5 & CSS3 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284857136'>바닐라 자바스크립트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166270352'>코드로 배우는 스프링 웹 프로젝트 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193475151'>IT 개발자의 거의 모든 것 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=204819510'>리액트를 다루는 기술 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315742581'>스프링 부트 3 백엔드 개발자 되기 : 자바 편 (Read)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301538431'>React.js, 스프링 부트, AWS로 배우는 웹 개발 101 2/e (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410'>이펙티브 자바 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545'>모던 자바스크립트 Deep Dive (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290892473'>헤드 퍼스트 디자인 패턴 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317906454'>내 코드가 그렇게 이상한가요? (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291419629'>그림과 실습으로 배우는 도커 & 쿠버네티스 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257114341'>그림으로 공부하는 IT 인프라 구조 (Reading)</a><br>
-<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592'>HTTP 완벽 가이드 (Reading)</a><br>
-<!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281982822'>리액트 네이티브를 다루는 기술 (Reading)</a><br> -->
-<br>
--->
-
 ### 📜 Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass, 2016)</a><br>
 <a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass, 2016)</a><br>
