@@ -1,7 +1,8 @@
 <div align='center'>
 
 ### :D
-PHP 위주 프리랜서입니다
+PHP 위주 프리랜서입니다<br>
+최근 파이썬 프로그래밍을 통한 자동화 프로그래밍에도 관심이 있습니다
 <br><br>
 
 ### 💼 Career & Study
