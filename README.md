@@ -68,6 +68,7 @@ Freelance web developing
   
 ### 📚 To Learn
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
