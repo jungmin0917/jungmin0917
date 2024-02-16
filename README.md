@@ -101,6 +101,7 @@ Freelance web developing
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <br><br>
 
+<!--
 ### 📖 Books I Read (at over 80%)
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278601116'>스프링 부트 쇼핑몰 프로젝트 with JPA (Read)</a><br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310559162'>2023 이기적 정보처리기능사 필기 기출문제집 (Read)</a><br>
@@ -126,6 +127,7 @@ Freelance web developing
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592'>HTTP 완벽 가이드 (Reading)</a><br>
 <!-- <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281982822'>리액트 네이티브를 다루는 기술 (Reading)</a><br> -->
 <br>
+-->
 
 ### 📜 Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass, 2016)</a><br>
