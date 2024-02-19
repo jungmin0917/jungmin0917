@@ -19,7 +19,7 @@ Java, Servlet/JSP, Spring Boot, Vue.js study
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
 2024.02 ~<br>
-Freelance web developing
+Laravel, CodeIgniter study, Freelance web developing
 <br><br>
 
 ### 💻 Tech Stack
@@ -64,8 +64,11 @@ Freelance web developing
 <br><br>
   
 ### 📚 To Learn
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
@@ -73,7 +76,6 @@ Freelance web developing
 <!-- <img src="https://img.shields.io/badge/React Native-25D2F5?style=flat&logo=react&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> -->
 <!--<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />-->
