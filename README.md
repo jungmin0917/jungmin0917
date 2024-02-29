@@ -97,9 +97,10 @@ Laravel, CodeIgniter study, Freelance web developing
 <img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenSSH-E6C242?style=flat&logo=&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=gitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
 <br><br>
 
 ### 📜 Certificate
