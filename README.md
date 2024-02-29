@@ -53,9 +53,9 @@ Laravel, CodeIgniter study, Freelance web developing
   
 #### OS & Infra & ETC
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
@@ -67,7 +67,6 @@ Laravel, CodeIgniter study, Freelance web developing
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
