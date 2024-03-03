@@ -20,7 +20,7 @@ Java, Servlet/JSP, Spring Boot, Vue.js study
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
 2024.02 ~<br>
-Laravel, CodeIgniter study, Freelance web developing
+Laravel, CodeIgniter study, Freelancing
 <br><br>
 
 ### 💻 Tech Stack
