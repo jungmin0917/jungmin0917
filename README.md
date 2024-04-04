@@ -31,7 +31,6 @@ Laravel, CodeIgniter study, Freelancing
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 
 #### Backend
@@ -40,13 +39,10 @@ Laravel, CodeIgniter study, Freelancing
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
 
 #### Database
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
   
 #### OS & Infra & ETC
@@ -56,8 +52,6 @@ Laravel, CodeIgniter study, Freelancing
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <br><br>
   
@@ -81,14 +75,12 @@ Laravel, CodeIgniter study, Freelancing
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/WinSCP-32B9DC?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/MobaXterm-353535?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenSSH-E6C242?style=flat&logo=&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=gitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
 <br><br>
 
@@ -99,8 +91,7 @@ Laravel, CodeIgniter study, Freelancing
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass, 2023)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
-<!--
-<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification'>PCCE using C++ (Preparing)</a><br>-->
+<!--<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification'>PCCE using C++ (Preparing)</a><br>-->
 <br>
 
 ### ✉️ Contact
