@@ -38,8 +38,6 @@ Laravel, CodeIgniter study, Freelancing
 <img src="https://img.shields.io/badge/Java-0099E5?style=flat&logo=OpenJDK&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
 
 #### Database
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white" />
