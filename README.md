@@ -19,9 +19,8 @@ Java, Servlet/JSP, Spring Boot, Vue.js study
 2023.07 ~ 2023.12<br>
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
-2024.02 ~<br>
-Laravel, CodeIgniter study, Freelancing
-<br><br>
+2024.04 ~<br>
+..
 
 ### 💻 Tech Stack
 
