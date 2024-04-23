@@ -20,7 +20,7 @@ Java, Servlet/JSP, Spring Boot, Vue.js study
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
 2024.04 ~<br>
-..
+Java, Spring Boot study & Marketplace project
 
 ### 💻 Tech Stack
 
