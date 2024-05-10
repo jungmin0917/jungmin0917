@@ -1,9 +1,9 @@
 <div align='center'>
 
 ### :D
-PHP 위주 프리랜서입니다<br>
-최근 RPA에도 관심이 있습니다<br>
+PHP 위주 프리랜서입니다.<br>
 자바 개발자로 전향 중입니다.
+RPA에도 관심이 있습니다.<br>
 <br><br>
 
 ### 💼 Career & Study
