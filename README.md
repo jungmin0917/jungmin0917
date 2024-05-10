@@ -11,7 +11,7 @@ PHP 위주 프리랜서입니다<br>
 HTML/CSS, JavaScript, PHP, MySQL study
 <br><br>
 2021.06 ~ 2022.06<br>
-PHP-based community websites renewal & maintenance
+PHP-based community websites renewal & maintenance (https://etoland.co.kr/)
 <br><br>
 2023.03 ~ 2023.06<br>
 Java, Servlet/JSP, Spring Boot, Vue.js study
