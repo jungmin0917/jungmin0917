@@ -2,7 +2,6 @@
 
 ### :D
 PHP 위주 프리랜서입니다.<br>
-자바 개발자로 전향 중입니다.<br>
 RPA에도 관심이 있습니다.
 <br><br>
 
@@ -21,8 +20,8 @@ Java, Servlet/JSP, Spring Boot, Vue.js study
 2023.07 ~ 2023.12<br>
 Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
-2024.04 ~<br>
-Java, Spring Boot study & NFT Marketplace project
+2024.07 ~<br>
+Accounting study
 
 ### 💻 Tech Stack
 
