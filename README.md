@@ -22,6 +22,7 @@ Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
 <br><br>
 2024.07 ~<br>
 Accounting study
+<br><br>
 
 ### 💻 Tech Stack
 
