@@ -5,22 +5,9 @@ PHP 위주 프리랜서입니다.<br>
 RPA에도 관심이 있습니다.
 <br><br>
 
-### 💼 Career & Study
-2021.03 ~ 2021.06<br>
-HTML/CSS, JavaScript, PHP, MySQL study
-<br><br>
+### 💼 Career
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance
-<br><br>
-2023.03 ~ 2023.06<br>
-Java, Servlet/JSP, Spring Boot, Vue.js study
-<br><br>
-2023.07 ~ 2023.12<br>
-Java, Servlet/JSP, Spring Boot, JavaScript, React, OracleDB study
-<br><br>
-2024.07 ~<br>
-Accounting, Excel, Access study
-<br><br>
 
 ### 💻 Tech Stack
 
