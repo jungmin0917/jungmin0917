@@ -1,8 +1,7 @@
 <div align='center'>
 
 ### :D
-PHP 위주 프리랜서입니다.<br>
-RPA에도 관심이 있습니다.
+개발자를 하기에 모자란 지능입니다.
 <br><br>
 
 ### 💼 Career
