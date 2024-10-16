@@ -2,7 +2,8 @@
 
 ### :D
 개발자를 하기에 모자란 지능입니다.<br>
-타 직종으로 갈아탑니다...
+타 직종으로 갈아탑니다...<br>
+개발은 취미로 하렵니다.
 <br><br>
 
 ### 💼 Career
@@ -17,9 +18,6 @@ PHP-based community websites renewal & maintenance
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 
 #### Backend
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
@@ -33,19 +31,13 @@ PHP-based community websites renewal & maintenance
   
 #### OS & Infra & ETC
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <br><br>
   
 ### 📚 To Learn
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <br><br>
@@ -63,11 +55,8 @@ PHP-based community websites renewal & maintenance
 <br>
 <img src="https://img.shields.io/badge/MobaXterm-353535?style=flat&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenSSH-E6C242?style=flat&logo=&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=gitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
 <br><br>
 
 ### 📜 Certificate
@@ -77,7 +66,7 @@ PHP-based community websites renewal & maintenance
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass, 2023)</a><br>
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
-<!--<a href='https://certi.programmers.co.kr/about/pcce?tab=qualification'>PCCE using C++ (Preparing)</a><br>-->
+<a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산회계 2급 (Pass, 2024)</a><br>
 <br>
 
 ### ✉️ Contact
