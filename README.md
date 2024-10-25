@@ -67,6 +67,8 @@ PHP-based community websites renewal & maintenance
 <a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
 <a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
 <a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산회계 2급 (Pass, 2024)</a><br>
+<a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산세무 2급 (준비 중, 2024)</a><br>
+<a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산세무 1급 (준비 중, 2024)</a><br>
 <br>
 
 ### ✉️ Contact
