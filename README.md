@@ -62,12 +62,7 @@ PHP-based community websites renewal & maintenance
 ### 📜 Certificate
 <a href='https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId'>정보기기운용기능사 (Pass, 2016)</a><br>
 <a href='https://www.icqa.or.kr/cn/page/network'>네트워크관리사 2급 (Pass, 2016)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass, 2019)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass, 2023)</a><br>
-<a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
-<a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
-<a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산세무 1급 (Pass, 2024)</a><br>
-<a href='https://at.kicpa.or.kr/home/info/info01002l.jsp?jm_cd=D'>TAT 1급 (준비 중, 2024)</a><br>
+<a href='급 (준비 중, 2024)</a><br>
 <a href='https://www.samilexam.com/usr/greeting.do#'>재경관리사 (준비 중, 2025)</a><br>
 <br>
 
