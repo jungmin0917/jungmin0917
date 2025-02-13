@@ -1,6 +1,7 @@
 <div align='center'>
 
 ### :D
+PHP를 주력으로 하는 웹개발자입니다.
 <br><br>
 
 ### 💼 Career
