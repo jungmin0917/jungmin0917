@@ -1,9 +1,5 @@
 <div align='center'>
-
-### :D
-PHP를 주력으로 하는 웹개발자입니다.
-<br><br>
-
+  
 ### 💼 Career
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance
