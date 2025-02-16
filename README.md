@@ -53,15 +53,6 @@ PHP-based community websites renewal & maintenance
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 <br><br>
 
-### 📜 Certificate
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&gSite=Q&jmCd=7780'>전기기능사 (Pass, 2019)</a><br>
-<a href='https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921'>정보처리기능사 (Pass, 2023)</a><br>
-<a href='https://www.ihd.or.kr/introducesubject1.do'>리눅스마스터 2급 (Pass, 2023)</a><br>
-<a href='https://www.dataq.or.kr/www/sub/a_04.do'>SQLD (Pass, 2023)</a><br>
-<a href='https://license.kacpta.or.kr/web/info/info_outline.aspx'>전산세무 1급 (Pass, 2024)</a><br>
-<a href='https://at.kicpa.or.kr/home/info/info01002l.jsp?jm_cd=D'>TAT 1급 (Pass, 2024)</a><br>
-<br>
-
 ### ✉️ Contact
 
 <a href='mailto:jungmin09172@naver.com'>
