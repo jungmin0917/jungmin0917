@@ -1,6 +1,4 @@
 <div align='center'>
-
-<img src="./main.gif" width="200px">
   
 ### 💼 Career
 2021.06 ~ 2022.06<br>
