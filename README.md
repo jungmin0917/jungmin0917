@@ -3,6 +3,9 @@
 ### 💼 Career
 2021.06 ~ 2022.06<br>
 PHP-based community websites renewal & maintenance
+
+2025.02 ~ <br>
+PHP-based community websites renewal & maintenance
 <br><br>
 
 ### 💻 Tech Stack
