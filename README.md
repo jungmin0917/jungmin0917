@@ -5,7 +5,7 @@
 PHP-based community websites renewal & maintenance
 
 2025.02 ~ <br>
-PHP-based community websites renewal & maintenance
+PHP-based community websites build & renewal & maintenance
 <br><br>
 
 ### 💻 Tech Stack
