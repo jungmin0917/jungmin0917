@@ -10,7 +10,7 @@ PHP-based community websites build & renewal & maintenance
 
 ### 📚 Study
 2026.04 ~ 2027.03<br>
-Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administration (세무직)
+Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administration
 <br><br>
 
 ### 💻 Tech Stack
