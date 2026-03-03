@@ -1,6 +1,7 @@
 <div align='center'>
 
 <strong>Former Web Developer</strong>
+<br><br>
   
 ### 💼 Career
 2021.06 ~ 2022.06<br>
