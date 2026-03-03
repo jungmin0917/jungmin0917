@@ -8,6 +8,11 @@ PHP-based community websites renewal & maintenance
 PHP-based community websites build & renewal & maintenance
 <br><br>
 
+### 📚 Study
+2026.04 ~ 2027.03<br>
+Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administration (세무직)
+<br><br>
+
 ### 💻 Tech Stack
 
 #### Frontend
