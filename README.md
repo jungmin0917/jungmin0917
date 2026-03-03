@@ -40,20 +40,12 @@ Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administrat
 <br><br>
 
 ### 🛠️ Tools
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/HeidiSQL-45AC00?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
-<br>
+<img src="https://img.shields.io/badge/Cursor-111111?style=flat&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-43322B?style=flat&logo=dbeaver&logoColor=white" />
 <img src="https://img.shields.io/badge/MobaXterm-353535?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/PuTTY-0000FF?style=flat&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=gitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
 <br><br>
 
 ### 👩🏻‍💻 Algorithm Skills (Using PHP, Java, etc.)
