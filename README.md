@@ -1,4 +1,6 @@
 <div align='center'>
+
+<strong>Former Web Developer</strong> · Now preparing for <strong>Korean National Civil Service Exam (9th Grade) — Tax Administration</strong>
   
 ### 💼 Career
 2021.06 ~ 2022.06<br>
@@ -34,13 +36,6 @@ Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administrat
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<br><br>
-  
-### 📚 To Learn
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <br><br>
 
 ### 🛠️ Tools
