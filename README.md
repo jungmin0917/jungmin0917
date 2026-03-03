@@ -56,13 +56,6 @@ Preparing for Korean National Civil Service Exam (9th Grade) — Tax Administrat
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 <br><br>
 
-### ✉️ Contact
-
-<a href='mailto:jungmin09172@naver.com'>
-<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" />
-</a>
-<br><br>
-
 ### 👩🏻‍💻 Algorithm Skills (Using PHP, Java, etc.)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jungmin0917)
