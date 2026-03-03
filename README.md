@@ -1,6 +1,6 @@
 <div align='center'>
 
-<strong>Former Web Developer</strong> · Now preparing for <strong>Korean National Civil Service Exam (9th Grade) — Tax Administration</strong>
+<strong>Former Web Developer</strong>
   
 ### 💼 Career
 2021.06 ~ 2022.06<br>
